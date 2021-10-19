@@ -56,12 +56,10 @@ button {
   padding: 16px;
   cursor: pointer;
   transition: 0.4s;
-  border: 1px solid transparent;
 }
 
 button:hover {
   opacity: 0.9;
-  border: 1px solid blue;
 }
 
 .operators {
